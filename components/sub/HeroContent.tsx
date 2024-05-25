@@ -73,7 +73,7 @@ const HeroContent = () => {
                             {" "}
                             the best{" "}
                         </span>
-                        project exprience
+                        project experience
                     </span>
                 </motion.div>
 
@@ -111,3 +111,5 @@ const HeroContent = () => {
 };
 
 export default HeroContent;
+
+

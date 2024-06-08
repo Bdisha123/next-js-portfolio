@@ -27,7 +27,7 @@ const ProjectCard = ({ src, title, skills, description,url }: Props) => {
 
             <div className="relative p-4">
                 <h1 className="text-2xl font-semibold text-white cursor-pointer">{title}</h1>
-                <p className="mt-2 text-gray-300">{skills}</p>
+                {/* <p className="mt-2 text-gray-300">{skills}</p> */}
             </div>
         </div>
     );

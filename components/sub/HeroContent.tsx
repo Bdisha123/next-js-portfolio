@@ -85,7 +85,7 @@ const HeroContent = () => {
                     NextJS etc. Check out my projects and skills.
                 </motion.p>
                 <motion.a
-                    href="https://drive.google.com/file/d/1AAjSOKIPIt4rSi3lCQQlJT4329LnhGzu/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1j1bX_Z2zLcEo1fCGhVYaAnd8qIlty2Yp/view?usp=drive_link"
                     target="_blank"
                     rel="noopener noreferrer"
                     variants={slideInFromLeft(1)}
